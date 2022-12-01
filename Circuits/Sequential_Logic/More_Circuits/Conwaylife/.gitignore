@@ -1,0 +1,10 @@
+/out/
+/*.vhd
+/*.v
+/*.log
+/simWorkspace/
+/tmp/
+.metals
+.bloop
+/*.sv
+.vscode

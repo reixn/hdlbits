@@ -16,7 +16,7 @@
  * License along with this library.
  */
 
-package mylib
+package hdlbits.circuits.sequential_logic.conwaylife
 
 import spinal.core._
 
@@ -72,8 +72,7 @@ class Conwaylife extends Component {
 }
 
 //Generate the MyTopLevel's Verilog
-object TopModuleSystemVerilog {
+object ConwaylifeVerilog {
   def main(args: Array[String]): Unit =
     SpinalSystemVerilog(new Conwaylife)
-
 }

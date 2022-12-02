@@ -1,7 +1,7 @@
 // build.sc
 import mill._, scalalib._, publish._
 
-object conwaylife extends ScalaModule {
+object hdlbits extends ScalaModule {
   def scalaVersion = "2.13.10"
 
   def ivyDeps = Agg(

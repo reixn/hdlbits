@@ -1,10 +1,8 @@
 /out/
-/*.vhd
-/*.v
 /*.log
 /simWorkspace/
 /tmp/
 .metals
 .bloop
-/*.sv
+rtl
 .vscode

@@ -16,7 +16,7 @@
  * License along with this library.
  */
 
-package hdlbits.circuits.sequential_logic.conwaylife
+package circuits.sequential_logic.conwaylife
 
 import spinal.core._
 
